@@ -1,1 +1,1 @@
-Building a 3D Unet model from scratch using pytorch
+This project use a Unet-based model to segment nuclei from microsopy images. 
